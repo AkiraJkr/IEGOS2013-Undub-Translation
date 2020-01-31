@@ -13,6 +13,17 @@ For the files I use on GIMP, check [this boy here](https://github.com/AkiraJkr/I
 
 **[CLICK HERE](https://github.com/AkiraJkr/IEGOS2013-Undub-Translation/wiki/Download-Mirrors)**
 
+# Instructions
+
+<b>7-zip is required, and I will only tell you that ONCE.</b>
+
+
+After downloading it, extract the IEGOS2013-Undub-Translation-master folder, open it, select everything inside of it, right-click > 7-Zip > "Add to archive..." and then save the file as the following below
+
+![image](https://user-images.githubusercontent.com/27028529/73568835-f14ddc80-4447-11ea-8bc6-78b282d9e60d.png)
+
+After that, bring the new .zip file to C:\Users\%userprofile%\Documents\Dolphin Emulator\ResourcePacks then install it in Dolphin with the Resource Pack Manager.
+
 
 <br>Credits to the Inazuma Eleven Wikia for hoarding so much information of both the Dub and the Original version of the game/anime.
 <br>snakemi for finding the font that this game uses.
