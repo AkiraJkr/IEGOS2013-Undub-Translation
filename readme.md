@@ -13,7 +13,7 @@ For the files I use on GIMP, check [this boy here](https://github.com/AkiraJkr/I
 
 **[CLICK HERE](https://github.com/AkiraJkr/IEGOS2013-Undub-Translation/wiki/Download-Mirrors)**
 
-# Instructions
+# Installation Instructions
 
 <b>7-zip is required, and I will only tell you that ONCE.</b>
 
